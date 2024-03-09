@@ -30,8 +30,11 @@ const Footer = () => {
           );
         })}
       </ul>
+      <a href="tourfinderofficials@gmail.com" style={{ color: "white" }}>
+        contact us: toufinderofficials@gmail.com
+      </a>
       <p className="copyright">
-        copyright &copy; Backroads travel tours company
+        copyright &copy; TourFinder travel tours company
         <span id="date">{new Date().getFullYear()}</span> all rights reserved
       </p>
     </footer>

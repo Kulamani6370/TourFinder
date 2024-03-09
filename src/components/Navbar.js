@@ -7,7 +7,9 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="nav-center">
         <div className="nav-header">
-          <h3 className="navbar-title">TourFinder</h3>
+          <h3 className="navbar-title">
+            <span style={{ color: "black" }}>Tour</span>Finder
+          </h3>
           <button type="button" className="nav-toggle" id="nav-toggle">
             <i className="fas fa-bars"></i>
           </button>
