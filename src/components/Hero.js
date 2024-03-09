@@ -5,10 +5,7 @@ const Hero = () => {
     <section className="hero" id="home">
       <div className="hero-banner">
         <h1>TourFinder App</h1>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae
-          explicabo debitis est autem dicta.
-        </p>
+        <p>Where Adventure Begins: Tour Finder at Your Fingertips</p>
         <a href="#tours" className="btn hero-btn">
           explore tours
         </a>
